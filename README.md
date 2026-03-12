@@ -20,7 +20,11 @@ The simulator calculates the evolution of a quantum wave packet in real time and
 <img src="images/Simulator.png" width="700">
 </p>
 
-*(Replace this with a GIF or screenshot of your simulator)*
+<p align="center">
+<img src="images/Sim1.png" width="700">
+</p>
+
+
 
 ---
 
