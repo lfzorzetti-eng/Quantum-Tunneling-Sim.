@@ -1,4 +1,4 @@
-# Quantum Tunneling Simulator ⚛️
+# Quantum Tunneling Simulator 
 
 A real-time **quantum tunneling simulation** built with **Python, NumPy and Pygame**.
 
