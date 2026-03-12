@@ -60,9 +60,7 @@ class LabUniversalFinal:
             f.write(f"Massa (m): {self.m} | Voltagem: {self.voltagem}V\n")
             f.write(f"Temperatura: {self.temperatura}K\n")
             f.write(f"Taxa de Tunelamento: {tx:.6f}%\n")
-            f.write(f"Amostras: {self.testes_totais}\n")
-            f.write(f"Equacao Principal: {'Schrodinger' if self.modo_potencial == 1 else 'Dirac'}\n")
-        
+            f.write(f"Amostras: {self.testes_totais}\n")        
         print(f"Dados salvos")
 
     def calcular_potencial_completo(self, x_pos, ruido_t=0):
